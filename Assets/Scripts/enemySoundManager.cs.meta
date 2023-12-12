@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 60bf83b15ba07224a8c80fe4724d2e77
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - enemySrc: {instanceID: 0}
+  - attack: {fileID: 8300000, guid: 848ce2a5a5b236247a3190785747eb34, type: 3}
+  - run: {fileID: 8300000, guid: 495f005b08558bc438c78d685ad8ad01, type: 3}
+  - death: {fileID: 8300000, guid: fa733ef23fc651040ab993d78b161496, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
